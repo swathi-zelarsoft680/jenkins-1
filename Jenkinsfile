@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('waste fellows crack fellow hjashcbadhvsdh') {
+        stage('Hello') {
             steps {
-                echo 'waste fellows crack fellowkjasbshabdvhadbvkhbdhvbsdh'
+                echo 'Hello'
             }
         }
     }
