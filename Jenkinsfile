@@ -9,3 +9,11 @@ pipeline {
         }
     }
 }
+
+post {
+    always {
+     echo "Post Action"
+    }
+  }
+
+}
