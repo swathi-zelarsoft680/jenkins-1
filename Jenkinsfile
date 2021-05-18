@@ -15,5 +15,3 @@ post {
      echo "Post Action"
     }
   }
-
-}
